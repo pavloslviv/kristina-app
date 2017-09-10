@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hemma Shortcodes\n"
+"POT-Creation-Date: 2016-04-21 17:49+0100\n"
+"PO-Revision-Date: 2016-04-21 17:52+0100\n"
+"Last-Translator: Pasquale Vitiello <pasqualevitiello@gmail.com>\n"
+"Language-Team: Pasquale Vitiello <pasqualevitiello@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-hemma-shortcodes-lang.php:24
+msgid "Insert Button"
+msgstr "Inserisci Pulsante"
+
+#: includes/class-hemma-shortcodes-lang.php:25
+msgid "Button text"
+msgstr "Testo del pulsante"
+
+#: includes/class-hemma-shortcodes-lang.php:26
+msgid "Destination URL"
+msgstr "URL di destinazione"
+
+#: includes/class-hemma-shortcodes-lang.php:27
+msgid "Open link in a new tab?"
+msgstr "Apri link in una nuova finestra?"
+
+#: includes/class-hemma-shortcodes-lang.php:28
+msgid "Button color"
+msgstr "Colore pulsante"
+
+#: includes/class-hemma-shortcodes-lang.php:29
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/class-hemma-shortcodes-lang.php:30
+msgid "Red"
+msgstr "Rosso"
+
+#: includes/class-hemma-shortcodes-lang.php:31
+msgid "Orange"
+msgstr "Arancio"
+
+#: includes/class-hemma-shortcodes-lang.php:32
+msgid "Yellow"
+msgstr "Giallo"
+
+#: includes/class-hemma-shortcodes-lang.php:33
+msgid "Green"
+msgstr "Verde"
+
+#: includes/class-hemma-shortcodes-lang.php:34
+msgid "Light Blue"
+msgstr "Azzurro"
+
+#: includes/class-hemma-shortcodes-lang.php:35
+msgid "Blue"
+msgstr "Blu"
+
+#: includes/class-hemma-shortcodes-lang.php:36
+msgid "Purple"
+msgstr "Viola"
+
+#: includes/class-hemma-shortcodes-lang.php:37
+msgid "Pink"
+msgstr "Rosa"
+
+#: includes/class-hemma-shortcodes-lang.php:38
+msgid "Brown"
+msgstr "Marrone"
+
+#: includes/class-hemma-shortcodes-lang.php:39
+#: includes/class-hemma-shortcodes-lang.php:49
+msgid "Dark"
+msgstr "Scuro"
+
+#: includes/class-hemma-shortcodes-lang.php:40
+msgid "White"
+msgstr "Bianco"
+
+#: includes/class-hemma-shortcodes-lang.php:41
+msgid "Insert Map"
+msgstr "Inserisci Mappa"
+
+#: includes/class-hemma-shortcodes-lang.php:42
+msgid "Map Latitude"
+msgstr "Latitudine Mappa"
+
+#: includes/class-hemma-shortcodes-lang.php:43
+msgid "Map Longitude"
+msgstr "Longitudine Mappa"
+
+#: includes/class-hemma-shortcodes-lang.php:44
+msgid "Map Zoom Level"
+msgstr "Livello Zoom Mappa"
+
+#: includes/class-hemma-shortcodes-lang.php:45
+msgid "Map Height"
+msgstr "Altezza Mappa"
+
+#: includes/class-hemma-shortcodes-lang.php:46
+msgid "Map Style"
+msgstr "Stile Mappa"
+
+#: includes/class-hemma-shortcodes-lang.php:47
+msgid "Default"
+msgstr "Predefinito"
+
+#: includes/class-hemma-shortcodes-lang.php:48
+msgid "Light"
+msgstr "Chiaro"
+
+#: includes/class-hemma-shortcodes-lang.php:50
+msgid "Marker Color"
+msgstr "Colore del Marker"

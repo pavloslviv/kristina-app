@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hemma Instagram\n"
+"POT-Creation-Date: 2016-04-22 15:15+0100\n"
+"PO-Revision-Date: 2016-04-22 15:17+0100\n"
+"Last-Translator: Pasquale Vitiello <pasqualevitiello@gmail.com>\n"
+"Language-Team: Pasquale Vitiello <pasqualevitiello@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-hemma-instagram.php:143
+msgid "Unable to communicate with Instagram."
+msgstr "Impossibile comunicare con Instagram."
+
+#: includes/class-hemma-instagram.php:146
+msgid "Instagram did not return a 200."
+msgstr "Instagram non ha restituito un 200."
+
+#: includes/class-hemma-instagram.php:153
+#: includes/class-hemma-instagram.php:158
+#: includes/class-hemma-instagram.php:162
+msgid "Instagram has returned invalid data."
+msgstr "Instagram ha restituito dati non validi."
+
+#: includes/class-hemma-instagram.php:192
+msgid "Instagram Image"
+msgstr "Immagine di Instagram"
+
+#: includes/class-hemma-instagram.php:225
+msgid "Instagram did not return any images."
+msgstr "Instagram non ha restituito immagini."
